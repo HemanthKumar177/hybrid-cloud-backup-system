@@ -121,5 +121,4 @@ This ensures that backups are stored both **locally and in the cloud**.
 ## Author
 
 Hemanth Kumar HV
-Computer Science Engineering
-Interested in Cloud Computing and DevOps
+S
