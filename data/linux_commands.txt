@@ -1,0 +1,12 @@
+Common Linux Commands
+
+ls      : List files and directories
+cd      : Change directory
+pwd     : Show current working directory
+cp      : Copy files
+mv      : Move or rename files
+rm      : Remove files
+mkdir   : Create directory
+touch   : Create empty file
+cat     : Display file contents
+tar     : Create archive files

@@ -1,0 +1,19 @@
+Docker Notes
+
+Docker is a containerization platform used to package applications
+and their dependencies into containers.
+
+Containers ensure that applications run consistently across
+different environments.
+
+Advantages of Docker:
+- Lightweight containers
+- Faster deployment
+- Easy scaling
+- Environment consistency
+
+Docker Components:
+- Docker Engine
+- Docker Images
+- Docker Containers
+- Docker Hub

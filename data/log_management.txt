@@ -1,0 +1,12 @@
+Log Management
+
+Logs are records of system events and activities.
+
+Log management helps organizations monitor systems,
+detect errors, and investigate security incidents.
+
+Common Log Types:
+- System logs
+- Application logs
+- Security logs
+- Access logs

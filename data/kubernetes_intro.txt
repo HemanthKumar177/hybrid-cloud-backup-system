@@ -1,0 +1,19 @@
+Kubernetes Introduction
+
+Kubernetes is an open-source container orchestration system
+used to manage containerized applications.
+
+It automates deployment, scaling, and management of containers.
+
+Key Features:
+- Automatic scaling
+- Self-healing containers
+- Service discovery
+- Load balancing
+- Rolling updates
+
+Major Components:
+- Master node
+- Worker nodes
+- Pods
+- Services

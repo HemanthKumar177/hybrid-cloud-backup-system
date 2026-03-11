@@ -1,0 +1,20 @@
+AWS Services Overview
+
+Amazon Web Services (AWS) provides a wide range of cloud services.
+
+Important AWS Services:
+
+EC2 (Elastic Compute Cloud)
+- Provides virtual servers in the cloud.
+
+S3 (Simple Storage Service)
+- Object storage used for storing files and backups.
+
+RDS (Relational Database Service)
+- Managed database service.
+
+Lambda
+- Serverless computing service.
+
+IAM (Identity and Access Management)
+- Manages users and permissions.

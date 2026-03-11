@@ -1,0 +1,11 @@
+Security Best Practices
+
+Security is an important aspect of cloud and DevOps environments.
+
+Best Practices:
+- Use strong passwords
+- Enable multi-factor authentication
+- Rotate access keys regularly
+- Use IAM roles instead of root accounts
+- Encrypt sensitive data
+- Monitor system logs regularly

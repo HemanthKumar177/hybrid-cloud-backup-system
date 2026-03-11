@@ -1,0 +1,18 @@
+Monitoring Tools
+
+Monitoring tools help track system health, performance,
+and availability.
+
+Popular Monitoring Tools:
+
+Prometheus
+An open-source monitoring system used for collecting metrics.
+
+Grafana
+A visualization tool used to display monitoring data.
+
+Nagios
+A monitoring tool used for infrastructure and network monitoring.
+
+ELK Stack
+Used for log management and analysis.

@@ -1,0 +1,11 @@
+Benefits of Cloud Computing
+
+Cloud computing provides many advantages to businesses.
+
+Benefits:
+- Reduced infrastructure cost
+- High scalability
+- Better collaboration
+- Faster deployment
+- Automatic updates
+- Disaster recovery capabilities

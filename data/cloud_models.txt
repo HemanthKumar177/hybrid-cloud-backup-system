@@ -1,0 +1,12 @@
+Cloud Service Models
+
+Cloud computing provides services in different models.
+
+IaaS (Infrastructure as a Service)
+Provides virtual machines, storage, and networking.
+
+PaaS (Platform as a Service)
+Provides a platform for developing and deploying applications.
+
+SaaS (Software as a Service)
+Provides software applications over the internet.

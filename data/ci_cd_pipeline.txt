@@ -1,0 +1,17 @@
+CI/CD Pipeline
+
+CI/CD stands for Continuous Integration and Continuous Deployment.
+
+It is a DevOps practice that automates the software delivery process.
+
+Continuous Integration (CI):
+Developers frequently merge code changes into a central repository.
+
+Continuous Deployment (CD):
+Code changes are automatically deployed to production after testing.
+
+Pipeline Stages:
+1. Code commit
+2. Build
+3. Testing
+4. Deployment

@@ -1,0 +1,18 @@
+iNetworking Basics
+
+Networking connects computers and devices to communicate
+with each other.
+
+Important Networking Concepts:
+
+IP Address
+A unique identifier assigned to devices on a network.
+
+Subnet
+A smaller network within a larger network.
+
+DNS
+Domain Name System that translates domain names into IP addresses.
+
+Firewall
+A security system that monitors and controls network traffic.

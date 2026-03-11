@@ -1,0 +1,12 @@
+Bash Scripting
+
+Bash scripting allows automation of repetitive tasks in Linux systems.
+
+A bash script is a text file containing a series of commands
+that are executed sequentially.
+
+Common Uses:
+- Automating backups
+- System monitoring
+- Deployment automation
+- File management

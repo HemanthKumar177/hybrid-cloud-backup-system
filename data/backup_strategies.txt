@@ -1,0 +1,14 @@
+Backup Strategies
+
+Backups are used to protect data from loss or corruption.
+
+Types of Backup:
+
+Full Backup
+A complete copy of all data.
+
+Incremental Backup
+Only the data that changed since the last backup is stored.
+
+Differential Backup
+Stores changes made since the last full backup.

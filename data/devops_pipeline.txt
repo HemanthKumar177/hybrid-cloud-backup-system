@@ -1,0 +1,17 @@
+CI/CD Pipeline
+
+CI/CD stands for Continuous Integration and Continuous Deployment.
+
+Steps in a CI/CD Pipeline:
+
+1. Developer writes code
+2. Code is pushed to Git repository
+3. CI server builds the application
+4. Automated tests run
+5. Application is deployed to server
+
+Benefits:
+- Faster delivery
+- Fewer errors
+- Automated testing
+- Continuous improvement

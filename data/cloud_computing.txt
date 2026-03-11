@@ -1,0 +1,21 @@
+Cloud Computing
+
+Cloud computing is the delivery of computing services such as servers, storage, databases,
+networking, software, and analytics over the internet.
+
+Benefits of Cloud Computing:
+- Cost efficiency
+- Scalability
+- High availability
+- Disaster recovery
+- Global access
+
+Major Cloud Service Providers:
+- AWS (Amazon Web Services)
+- Microsoft Azure
+- Google Cloud Platform
+
+Service Models:
+1. IaaS – Infrastructure as a Service
+2. PaaS – Platform as a Service
+3. SaaS – Software as a Service
