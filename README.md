@@ -99,10 +99,10 @@ The script can be scheduled using cron for automatic execution.
 Example cron job:
 
 ```
-0 10 * * * /home/hemanthhk/hybrid-cloud-backup/backup.sh
+0 11 * * * /home/hemanthhk/hybrid-cloud-backup/backup.sh
 ```
 
-This runs the backup **every day at 10:00 AM**.
+This runs the backup **every day at 11:00 AM**.
 
 ---
 
